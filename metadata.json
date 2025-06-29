@@ -1,0 +1,5 @@
+{
+  "name": "社群文案產生器 (Social Media Copy Generator)",
+  "description": "一個使用 Gemini API 快速產生適合不同平台與風格的社群媒體文案的工具。 (A tool that uses the Gemini API to quickly generate social media copy suitable for different platforms and styles.)",
+  "requestFramePermissions": []
+}
